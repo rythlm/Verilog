@@ -55,3 +55,5 @@ assign Cout = (A & B) | (Cin & (A ^ B));
 // gate level_2
 
 */
+
+![Full Adder Simulation](C:\Users\asiclab\Documents\GitHub\Verilog\fulladder.png)
