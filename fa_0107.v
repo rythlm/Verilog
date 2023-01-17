@@ -57,4 +57,4 @@ assign Cout = (A & B) | (Cin & (A ^ B));
 */
 
 
-!(C:\Users\asiclab\Documents\GitHub\Verilog\fulladder.png)
+
